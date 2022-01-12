@@ -1,0 +1,35 @@
+Match: Scanner 1/32 with 12
+Match: Scanner 4/31 with 12
+Match: Scanner 4/30 with 6
+Match: Scanner 12/29 with 12
+Match: Scanner 1/28 with 6
+Match: Scanner 7/27 with 9
+Match: Scanner 10/26 with 12
+Match: Scanner 3/25 with 6
+Match: Scanner 4/24 with 6
+Match: Scanner 9/23 with 12
+Match: Scanner 9/22 with 12
+Match: Scanner 1/21 with 12
+Match: Scanner 9/20 with 6
+Match: Scanner 9/19 with 12
+Match: Scanner 9/18 with 12
+Match: Scanner 4/17 with 6
+Match: Scanner 3/16 with 12
+Match: Scanner 4/15 with 6
+Match: Scanner 3/14 with 12
+Match: Scanner 3/13 with 6
+Match: Scanner 3/12 with 6
+Match: Scanner 3/11 with 12
+Match: Scanner 3/10 with 6
+Match: Scanner 3/9 with 6
+Match: Scanner 3/8 with 12
+Match: Scanner 3/7 with 6
+Match: Scanner 4/6 with 12
+Match: Scanner 4/5 with 6
+Match: Scanner 4/4 with 12
+Match: Scanner 1/3 with 3
+Match: Scanner 1/2 with 3
+Match: Scanner 1/1 with 6
+
+Total beacons: 430
+Largest Manhattan: 11860

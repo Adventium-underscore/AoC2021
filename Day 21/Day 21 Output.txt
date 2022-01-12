@@ -1,0 +1,12 @@
+Loop 1: 1 states.
+Loop 2: 49 states.
+Loop 3: 2401 states.
+Loop 4: 13806 states.
+Loop 5: 8464 states.
+Loop 6: 4900 states.
+Loop 7: 2401 states.
+Loop 8: 625 states.
+Loop 9: 100 states.
+Loop 10: 1 states.
+[912857726749764, 598173233581909]
+912857726749764

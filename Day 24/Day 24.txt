@@ -1,0 +1,293 @@
+        z=0
+inp w
+mul x 0
+add x z
+mod x 26    x=0
+div z 1     z=0
+add x 11    x=11
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=0
+mul y 0
+add y w
+add y 14
+mul y x     y=w+14
+add z y     z=w+14
+        15 <= z <= 23
+
+        15 <= z <= 23
+inp w
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 1     z=z
+add x 13    x=z%26+13
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=26z
+mul y 0
+add y w
+add y 8
+mul y x     y=w+8
+add z y     z=26z+w+8
+        399 <= z <= 615
+
+        399 <= z <= 615
+inp w
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 1     z=z
+add x 11    x=z%26+11
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=26z
+mul y 0
+add y w
+add y 4
+mul y x     y=w+4
+add z y     z=26z+w+4
+        10379 <= z <= 16003
+
+        10379 <= z <= 16003
+inp w
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 1     z=z
+add x 10    x=z%26+10
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=26z
+mul y 0
+add y w
+add y 10
+mul y x     y=w+10
+add z y     z=26z+w+10
+        269865 <= z <= 416097
+
+        269865 <= z <= 416090
+inp w       w == z%26-3
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 26    z=z/26
+add x -3    x=z%26-3
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=z/26
+mul y 0
+add y w
+add y 14
+mul y x     y=0
+add z y     z=z/26
+         10379 <= z <= 16003
+
+         10379 <= z <= 16003
+inp w       w == z%26-4
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 26    z=z/26
+add x -4    x=z%26-4
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=z/26
+mul y 0
+add y w
+add y 10
+mul y x     y=0
+add z y     z=z/26
+        399 <= z <= 615
+
+        399 <= z <= 615
+inp w
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 1     z=z
+add x 12    x=z%26+12
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=26z
+mul y 0
+add y w
+add y 4
+mul y x     y=w+4
+add z y     z=26z+w+4
+        10379 <= z <= 16003
+
+        10383 <= z <= 16003
+inp w       w == z%26-8
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 26    z=z/26
+add x -8    x=z%26-8
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=z/26
+mul y 0
+add y w
+add y 14
+mul y x     y=0
+add z y     z=z/26
+        399 <= z <= 615
+
+        399 <= z <= 610
+inp w       w == z%26-3
+mul x 0
+add x z
+mod x 26    x=z%26
+div z 26    z=z/26
+add x -3    x=z%26-3
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=z/26
+mul y 0
+add y w
+add y 1
+mul y x     y=0
+add z y     z=z/26
+        15 <= z <= 23
+
+        15 <= z <= 21
+inp w       w == z-12
+mul x 0
+add x z
+mod x 26    x=z
+div z 26    z=0
+add x -12   x=z-12
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=0
+mul y 0
+add y w
+add y 6
+mul y x     y=0
+add z y     z=0
+        z=0
+
+        z=0
+inp w
+mul x 0
+add x z
+mod x 26    x=0
+div z 1     z=0
+add x 14    x=14
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=0
+mul y 0
+add y w
+add y 0
+mul y x     y=w
+add z y     z=w
+        0 <= z <= 9
+
+        7 <= z <= 9
+inp w       w == z-6
+mul x 0
+add x z
+mod x 26    x=z
+div z 26    z=0
+add x -6    x=z-6
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=0
+mul y 0
+add y w
+add y 9
+mul y x     y=0
+add z y     z=0
+        z=0
+
+        z=0
+inp w
+mul x 0
+add x z
+mod x 26    x=0
+div z 1     z=0
+add x 11    x=11
+eql x w
+eql x 0     x=1
+mul y 0
+add y 25
+mul y x
+add y 1     y=26
+mul z y     z=0
+mul y 0
+add y w
+add y 13
+mul y x     y=w+13
+add z y     z=w+13
+        14 <= z <= 22
+
+        14 <= z <= 21
+inp w       w == z-12
+mul x 0
+add x z
+mod x 26    x=z
+div z 26    z=0
+add x -12   x=z-12
+eql x w
+eql x 0     x=0
+mul y 0
+add y 25
+mul y x
+add y 1     y=1
+mul z y     z=0
+mul y 0
+add y w
+add y 12
+mul y x     y=0
+add z y     z=0
+        z=0
