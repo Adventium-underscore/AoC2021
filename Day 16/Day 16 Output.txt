@@ -1,0 +1,564 @@
+---Operator---
+	---Operator---
+		Num: 2757249227
+		Num: 543124
+		Num: 15
+		Num: 7
+		Num: 31143
+	---Minimum---
+	Result: 7
+
+	Num: 11
+	---Operator---
+		---Operator---
+			Num: 2728262633
+			Num: 2728262633
+		---Greater Than---
+		Result: 0
+
+		Num: 2638
+	---Product---
+	Result: 0
+
+	---Operator---
+		---Operator---
+			Num: 15
+			Num: 13
+			Num: 12
+		---Sum---
+		Result: 40
+
+		---Operator---
+			Num: 11
+			Num: 15
+			Num: 15
+		---Sum---
+		Result: 41
+
+		---Operator---
+			Num: 9
+			Num: 3
+			Num: 10
+		---Sum---
+		Result: 22
+
+	---Product---
+	Result: 36080
+
+	---Operator---
+		Num: 123
+		Num: 3003
+		Num: 6592825
+	---Maximum---
+	Result: 6592825
+
+	---Operator---
+		Num: 2582397410
+		---Operator---
+			Num: 1021259
+			Num: 302193158900
+		---Less Than---
+		Result: 1
+
+	---Product---
+	Result: 2582397410
+
+	---Operator---
+		Num: 175
+		---Operator---
+			---Operator---
+				Num: 2
+				Num: 14
+				Num: 7
+			---Sum---
+			Result: 23
+
+			---Operator---
+				Num: 10
+				Num: 2
+				Num: 9
+			---Sum---
+			Result: 21
+
+		---Greater Than---
+		Result: 1
+
+	---Product---
+	Result: 175
+
+	Num: 5
+	---Operator---
+		Num: 62760
+		Num: 61720
+		Num: 39634
+	---Minimum---
+	Result: 39634
+
+	---Operator---
+		Num: 13
+		Num: 15212141
+		Num: 12919
+		Num: 20
+		Num: 237055
+	---Maximum---
+	Result: 15212141
+
+	---Operator---
+		Num: 9078991757179
+	---Maximum---
+	Result: 9078991757179
+
+	---Operator---
+		Num: 16182
+		Num: 795
+		Num: 274561
+		Num: 143
+		Num: 941049
+	---Sum---
+	Result: 1232730
+
+	---Operator---
+		Num: 9
+	---Minimum---
+	Result: 9
+
+	---Operator---
+		Num: 18861
+		---Operator---
+			Num: 19547072934
+			Num: 60278
+		---Less Than---
+		Result: 0
+
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 53811
+	---Sum---
+	Result: 53811
+
+	---Operator---
+		Num: 114
+	---Product---
+	Result: 114
+
+	---Operator---
+		Num: 623
+		---Operator---
+			Num: 57868937821
+			Num: 57868937821
+		---Less Than---
+		Result: 0
+
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 183
+		Num: 32
+		Num: 19
+		Num: 220
+		Num: 59
+	---Product---
+	Result: 1444206720
+
+	---Operator---
+		Num: 157873825
+		Num: 729280
+		Num: 63
+		Num: 3740
+	---Minimum---
+	Result: 63
+
+	---Operator---
+		Num: 151210218
+		---Operator---
+			Num: 794970219511
+			Num: 1647
+		---Greater Than---
+		Result: 1
+
+	---Product---
+	Result: 151210218
+
+	Num: 1
+	---Operator---
+		Num: 218
+		---Operator---
+			Num: 5323789
+			Num: 119
+		---Greater Than---
+		Result: 1
+
+	---Product---
+	Result: 218
+
+	Num: 2881
+	---Operator---
+		---Operator---
+			---Operator---
+				---Operator---
+					---Operator---
+						---Operator---
+							---Operator---
+								---Operator---
+									---Operator---
+										---Operator---
+											---Operator---
+												---Operator---
+													---Operator---
+														---Operator---
+															---Operator---
+																---Operator---
+																	---Operator---
+																		---Operator---
+																			---Operator---
+																				---Operator---
+																					Num: 77239
+																				---Maximum---
+																				Result: 77239
+
+																			---Product---
+																			Result: 77239
+
+																		---Maximum---
+																		Result: 77239
+
+																	---Sum---
+																	Result: 77239
+
+																---Minimum---
+																Result: 77239
+
+															---Product---
+															Result: 77239
+
+														---Product---
+														Result: 77239
+
+													---Maximum---
+													Result: 77239
+
+												---Product---
+												Result: 77239
+
+											---Minimum---
+											Result: 77239
+
+										---Maximum---
+										Result: 77239
+
+									---Minimum---
+									Result: 77239
+
+								---Maximum---
+								Result: 77239
+
+							---Sum---
+							Result: 77239
+
+						---Minimum---
+						Result: 77239
+
+					---Maximum---
+					Result: 77239
+
+				---Minimum---
+				Result: 77239
+
+			---Sum---
+			Result: 77239
+
+		---Product---
+		Result: 77239
+
+	---Sum---
+	Result: 77239
+
+	---Operator---
+		---Operator---
+			---Operator---
+				Num: 5
+				Num: 8
+				Num: 6
+			---Sum---
+			Result: 19
+
+			---Operator---
+				Num: 4
+				Num: 7
+				Num: 7
+			---Sum---
+			Result: 18
+
+		---Equal To---
+		Result: 0
+
+		Num: 213611
+	---Product---
+	Result: 0
+
+	---Operator---
+		---Operator---
+			Num: 111
+			Num: 111
+		---Greater Than---
+		Result: 0
+
+		Num: 12
+	---Product---
+	Result: 0
+
+	Num: 378714
+	---Operator---
+		---Operator---
+			Num: 1024988
+			Num: 201
+		---Equal To---
+		Result: 0
+
+		Num: 8
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 62901
+		Num: 360056
+		Num: 2724
+		Num: 46237708219
+	---Maximum---
+	Result: 46237708219
+
+	---Operator---
+		---Operator---
+			---Operator---
+				Num: 6
+				Num: 7
+				Num: 9
+			---Sum---
+			Result: 22
+
+			---Operator---
+				Num: 14
+				Num: 8
+				Num: 7
+			---Sum---
+			Result: 29
+
+		---Greater Than---
+		Result: 0
+
+		Num: 3002
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 85
+		Num: 42
+		Num: 198
+		Num: 46
+	---Product---
+	Result: 32515560
+
+	---Operator---
+		---Operator---
+			Num: 13
+			Num: 4
+			Num: 13
+		---Product---
+		Result: 676
+
+		---Operator---
+			Num: 8
+			Num: 3
+			Num: 12
+		---Product---
+		Result: 288
+
+		---Operator---
+			Num: 5
+			Num: 14
+			Num: 9
+		---Product---
+		Result: 630
+
+	---Sum---
+	Result: 1594
+
+	---Operator---
+		Num: 2
+		Num: 190
+	---Product---
+	Result: 380
+
+	Num: 76
+	Num: 231276253
+	---Operator---
+		Num: 300356
+		Num: 3689531186
+	---Sum---
+	Result: 3689831542
+
+	---Operator---
+		---Operator---
+			Num: 257071227
+			Num: 257071227
+		---Equal To---
+		Result: 1
+
+		Num: 1462
+	---Product---
+	Result: 1462
+
+	---Operator---
+		---Operator---
+			---Operator---
+				Num: 12
+				Num: 14
+				Num: 11
+			---Sum---
+			Result: 37
+
+			---Operator---
+				Num: 3
+				Num: 4
+				Num: 6
+			---Sum---
+			Result: 13
+
+		---Less Than---
+		Result: 0
+
+		Num: 3860
+	---Product---
+	Result: 0
+
+	---Operator---
+		---Operator---
+			Num: 6
+			Num: 162
+		---Equal To---
+		Result: 0
+
+		Num: 125
+	---Product---
+	Result: 0
+
+	Num: 2880
+	Num: 3390986004
+	---Operator---
+		---Operator---
+			Num: 4
+			Num: 4281429877
+		---Greater Than---
+		Result: 0
+
+		Num: 58455909126
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 242148
+		Num: 14
+	---Maximum---
+	Result: 242148
+
+	---Operator---
+		Num: 1044974328853
+		Num: 3381592924
+		Num: 223
+	---Sum---
+	Result: 1048355922000
+
+	---Operator---
+		Num: 62
+		Num: 234
+	---Minimum---
+	Result: 62
+
+	---Operator---
+		---Operator---
+			Num: 121
+			Num: 121
+		---Less Than---
+		Result: 0
+
+		Num: 47604
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 2761
+		---Operator---
+			Num: 157
+			Num: 295
+		---Greater Than---
+		Result: 0
+
+	---Product---
+	Result: 0
+
+	---Operator---
+		---Operator---
+			---Operator---
+				Num: 2
+				Num: 8
+				Num: 15
+			---Sum---
+			Result: 25
+
+			---Operator---
+				Num: 12
+				Num: 8
+				Num: 5
+			---Sum---
+			Result: 25
+
+		---Less Than---
+		Result: 0
+
+		Num: 16134816
+	---Product---
+	Result: 0
+
+	---Operator---
+		Num: 115
+		Num: 88
+		Num: 27
+	---Product---
+	Result: 273240
+
+	---Operator---
+		Num: 948921908
+		---Operator---
+			Num: 912995
+			Num: 255
+		---Less Than---
+		Result: 0
+
+	---Product---
+	Result: 0
+
+	---Operator---
+		---Operator---
+			Num: 16700
+			Num: 888593
+		---Less Than---
+		Result: 1
+
+		Num: 10932697
+	---Product---
+	Result: 10932697
+
+	Num: 141
+	---Operator---
+		Num: 828461
+		Num: 2
+		Num: 29
+		Num: 177
+	---Sum---
+	Result: 828669
+
+---Sum---
+Result: 10185143721112
