@@ -11,3 +11,13 @@ Day 21's input was hard-coded because it's not worth the effort to read 2 lines 
 Days 23 and 24 have no code because I didn't write any. I have no idea how to even start coding Day 23. Day 24 is basically me tracing z through the program.
 
 I wrote a v2 for Day 25 after I finished it becuase I felt like adding some jank to make it shorter. It was fun.
+
+---
+
+Here are my personal stats for this year:
+
+![Advent of Code 2021 personal stats](https://user-images.githubusercontent.com/44953517/149192592-1446c47f-46eb-4605-88df-b55a55e37287.png)
+
+A couple things to point out:
+1. I didn't know about Advent of Code until Day 5
+2. I went on vacation on Day 19 and fell behind
